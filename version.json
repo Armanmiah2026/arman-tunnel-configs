@@ -3,8 +3,8 @@
   "versionCode": 63,
   "arm64VersionCode": 632,
   "armv7VersionCode": 631,
-  "apkDownloadUrl": "https://github.com/Armanmiah2026/arman-tunnel-configs/releases/download/v1.0.57-b10/SnapDark-Tunnel-1.0.57-arm64-v8a.apk",
-  "armv7ApkDownloadUrl": "https://github.com/Armanmiah2026/arman-tunnel-configs/releases/download/v1.0.57-b10/SnapDark-Tunnel-1.0.57-armeabi-v7a.apk",
-  "releaseUrl": "https://github.com/Armanmiah2026/arman-tunnel-configs/releases/tag/v1.0.57-b10",
-  "publishedAt": "2026-10-21T12:14:05Z"
+  "apkDownloadUrl": "https://github.com/Armanmiah2026/arman-tunnel-configs/releases/download/v1.0.57-b12/SnapDark-Tunnel-1.0.57-arm64-v8a.apk",
+  "armv7ApkDownloadUrl": "https://github.com/Armanmiah2026/arman-tunnel-configs/releases/download/v1.0.57-b12/SnapDark-Tunnel-1.0.57-armeabi-v7a.apk",
+  "releaseUrl": "https://github.com/Armanmiah2026/arman-tunnel-configs/releases/tag/v1.0.57-b12",
+  "publishedAt": "2026-10-23T18:44:40Z"
 }
